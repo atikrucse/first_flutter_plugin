@@ -1,7 +1,7 @@
 name: open_setting
-description: "Open platform setting."
+description: Open platform setting
 version: 1.0.0
-repository: 
+repository: https://github.com/atikrucse/first_flutter_plugin
 homepage: https://www.linkedin.com/in/mynul-atik-121196228/
 
 environment:
